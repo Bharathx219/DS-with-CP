@@ -13,12 +13,8 @@ class Main {
         Main a = new Main();
         a.name = "Bharath";
         a.age = 20;
-
-        // first time
         System.out.println(a.name);
         System.out.println(a.age);
-
-        // second time
         a.getDetails();
     }
 }
