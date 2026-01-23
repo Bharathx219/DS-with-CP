@@ -1,0 +1,18 @@
+stack is empty 
+stack is empty there is no top element
+top element is -1
+is this stack empty  true
+_____________After Appending 10_______________ 
+[10,]
+top element is 10
+is this stack empty : false
+_________________After Appending 20____________________ 
+[20,10,]
+top element is 20
+is this stack empty : false
+__________________After pop oparation_______________________ 
+[10,]
+top element is 10
+is this stack empty : false
+
+=== Code Execution Successful ===
