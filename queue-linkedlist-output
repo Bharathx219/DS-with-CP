@@ -1,0 +1,35 @@
+queue is empty 
+[]
+____After enque 10______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 10
+[10,]
+____After enque 20______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 20
+[10,20,]
+____After enque 30______ 
+is this queue empty  false
+front pointer pointing element is at 10
+rear pointer  pointing element is at 30
+[10,20,30,]
+____After deque oparation______ 
+is this queue empty  false
+front pointer pointing element is at 20
+rear pointer  pointing element is at 30
+[20,30,]
+____After deque oparation______ 
+is this queue empty  false
+front pointer pointing element is at 30
+rear pointer  pointing element is at 30
+[30,]
+is this queue empty  true
+____After deque oparation______ 
+this queue is empty there is nothing to deque here
+is this queue empty  true
+queue is empty 
+[]
+
+=== Code Execution Successful ===
